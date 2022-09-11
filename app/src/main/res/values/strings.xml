@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather Api</string>
+    <string name="search_city">Search city</string>
+    <string name="description">Description</string>
+    <string name="humidity">Humidity</string>
+    <string name="weather_in_denver">Weather in Denver</string>
+    <string name="search">Search</string>
+    <string name="_56_c">56 C</string>
+    <string name="wind">Wind</string>
+    <string name="todo">TODO</string>
+    <string name="fuck_android_studio">fuck android studio</string>
+    <string name="weather">Weather</string>
+    <string name="c">C</string>
+</resources>
